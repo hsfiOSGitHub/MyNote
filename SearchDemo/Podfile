@@ -1,0 +1,8 @@
+platform:ios,’8.1’
+target ‘SearchDemo’ do
+
+pod 'MBProgressHUD'
+
+
+
+end
